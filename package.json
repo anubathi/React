@@ -19,7 +19,7 @@
     "redux-saga": "^1.0.3",
     "subscriptions-transport-ws": "^0.9.16",
     "urql": "^1.1.1",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-crosshair": "^1.1.4",
     "chartjs-plugin-zoom": "^0.7.5",
     "keyboardjs": "^2.5.1",
