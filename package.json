@@ -23,7 +23,7 @@
     "chartjs-plugin-crosshair": "^1.1.4",
     "chartjs-plugin-zoom": "^0.7.5",
     "keyboardjs": "^2.5.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "plotly.js-dist": "^1.49.4"
   },
   "scripts": {
